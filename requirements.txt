@@ -1,0 +1,6 @@
+tensorflow==2.15.0
+scipy
+flask
+numpy
+Pillow
+h5py
