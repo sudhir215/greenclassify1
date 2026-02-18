@@ -13,3 +13,26 @@
 ---
 
 ## Repo Structure
+
+
+---
+
+
+
+
+## Project Output Screenshots
+
+### Home Page
+![Home](output(web)\firstpage.png)
+
+### Prediction Page
+![Prediction](output(web)\secondpage.png)
+
+### Result Page
+![Result](output(web)\thirdpage.png)
+
+
+
+## 🎥 Project Demo Video
+
+Click here to watch demo video - https://drive.google.com/file/d/1Mzypjr0gcugAsLo33io7onDK2nVPe2CJ/view?usp=sharing
